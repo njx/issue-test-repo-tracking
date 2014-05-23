@@ -1,5 +1,5 @@
 {
-  "timestamp": 1400882470000,
+  "timestamp": 1400885923000,
   "issueLabels": {
     "1": {
       "changes": {
@@ -87,10 +87,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1400885923000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     }
   }
